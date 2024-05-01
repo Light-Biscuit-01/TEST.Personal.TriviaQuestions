@@ -2,8 +2,8 @@
 #include <stdlib.h> // include system pause
 #include <string> // use string var
 
-const char isTrue = 't';
-const char isFalse = 'f';
+char isTrue = 't';
+char isFalse = 'f';
 char myAnswer;
 
 std::string triviaBot = "TriviaBot: "; // Display character named "TriviaBot" before the dialogue 
